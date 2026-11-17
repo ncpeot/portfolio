@@ -4,4 +4,4 @@ Live version: https://siads-521-energy-dashboard-7474654444631410.aws.databricks
 
 Alternate: https://siads-521-energy-dashboard-c3d248ea.plotly.app/
 
-Video Explanation: https://drive.google.com/file/d/1PjpDuig2DObQi-IDc4225IoAKMrAAj4Z/view?usp=sharing 
+Video Explanation: https://drive.google.com/file/d/11idJElFo-3g9K5-RxpFDbCMR2mbwHmXL/view?usp=sharing
